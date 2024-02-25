@@ -1,0 +1,431 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+     /*header start*/
+     header {
+	    padding: 10px 0;
+	}
+	.logo h1 {
+	    font-size: 21px;
+	}
+	.menu ul li a {
+        text-align: center;
+	    padding: 16px 0 0 !important;
+	}
+ 
+    .navbar-toggler{
+        color: #fff !important;
+        background-color: #fff !important;
+    }
+	/* banner start  */
+	.height1 {
+		padding: 70px 0;
+	}
+	.b_text {
+		text-align: center;
+		padding: 30px 0px 0;
+	}
+	
+	.carousel-control-next{
+		display: none;
+
+	}
+	.carousel-control-prev{
+		display: none;
+
+	}
+	#myCarousel .carousel-item h1 {
+		font-size: 30px;
+		
+	}
+	#myCarousel p {
+		font-size: 16px;
+	}
+	#myCarousel .carousel-item .mask img {
+		max-width: 90%;
+	}
+	  /* About us start  */
+	  .about {
+		padding: 60px 0;
+	   }
+	   .c_h2 h2 {
+		font-size: 30px;
+	    }				
+		.c_h2 p {
+			padding: 0px;
+		}
+		.a_text h2 {
+			font-size: 30px;
+		}
+		.a_img{
+			margin: 0 auto;
+		}
+		.a_text {
+			margin-top: 30px;
+			text-align: center;
+		}
+		/* services start  */
+		.services {
+			padding-bottom: 60px;
+		}
+		.medium_p {
+			margin-bottom: 0px !important;
+		}
+		.card{
+			margin-top: 35px;
+		}
+		.card1{
+			margin: 35px 10px;
+		}
+		.card-title {
+			padding: 0px;
+			font-size: 21px;
+			font-weight: 600;
+		}
+		
+		.card-body {
+			padding-left: 5px !important;
+			padding-right: 5px !important;
+		}
+
+		/* .bookTaxi sraer  */
+		.medium_f{
+			margin-top: 14px;
+		}
+		
+		/* map start  */
+		.map {
+			margin-top: 30px;
+			
+		}
+		.mapss{
+			width: 100%;
+			height: 400px;
+		}
+		/* footer start  */
+		.f_1{
+			padding: 0 0px 25px;
+		}
+		#footer {
+			padding-top: 60px;
+		}
+
+
+ }
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+     /*header start*/
+     header {
+	    padding: 10px 0;
+	}
+	.logo h1 {
+	    font-size: 21px;
+	}
+	.menu ul li a {
+        text-align: center;
+	    padding: 16px 0 0 !important;
+	}
+   
+    .navbar-toggler{
+        color: #fff !important;
+        background-color: #fff !important;
+    }
+	/* banner start  */
+	.height1 {
+		padding: 70px 0;
+	}
+	.b_text {
+		text-align: center;
+		padding: 30px 0px 0;
+	}
+	#myCarousel .carousel-item h1 {
+		font-size: 30px;
+		
+	}
+	#myCarousel p {
+		font-size: 16px;
+	}
+	#myCarousel .carousel-item .mask img {
+		max-width: 70%;
+	}
+	/* banner next icon  */
+	.carousel-control-next{
+		height: 35px;
+		width: 35px;
+		padding: 5px;
+		top: 50%;
+		right: -2.5%;
+
+	}
+
+	.carousel-control-prev{
+		height: 35px;
+		width: 35px;
+		padding: 5px;
+		top: 50%;
+		left: -2.5%;
+		   
+	}
+	
+		/* About us start  */
+	   .about {
+		padding: 60px 0;
+		
+	   }
+	   .c_witdh{
+		width: 70%;
+		margin: 0 auto;
+	   }
+	   .c_h2 h2 {
+		font-size: 30px;
+	    }				
+		.c_h2 p {
+			padding: 0px;
+		}
+		.a_text h2 {
+			font-size: 30px;
+		}
+		.a_img{
+			margin: 0 auto;
+		}
+		.a_text {
+			margin-top: 30px;
+			text-align: center;
+		}
+		/* services start  */
+		.services {
+			padding-bottom: 60px;
+		}
+		.medium_p {
+			margin-bottom: 0px !important;
+		}
+		.card{
+			margin-top: 35px;
+		}
+		.card1{
+			margin-top: 35px;
+		}
+		.card-title {
+			padding: 0 30px;
+			font-size: 22px;
+			font-weight: 600;
+		}
+		
+		.card-body {
+			padding-left: 0px !important;
+			padding-right: 0px !important;
+		}
+		/* .bookTaxi sraer  */
+		.medium_f{
+			margin-top: 14px;
+		}
+		
+		/* map start  */
+		.map {
+			margin-top: 30px;
+			
+		}
+		.mapss{
+			width: 100%;
+			height: 400px;
+		}
+		/* footer start  */
+		.f_1{
+			padding: 0 50px 25px;
+		}
+		#footer {
+			padding-top: 60px;
+		}
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header start  */
+    header {
+	    padding: 15px 0;
+	}
+	.menu ul li a {
+	    text-align: center;
+	    padding: 20px 0 0 !important;
+	}
+  
+    .navbar-toggler{
+        color: #fff !important;
+        background-color: #fff !important;
+    }
+	/* banner start  */
+	.height1 {
+		padding: 70px 0;
+	}
+	.b_text {
+		text-align: center;
+		padding: 30px 52px 0;
+	}
+	#myCarousel .carousel-item h1 {
+		font-size: 35px;
+		
+	}
+	#myCarousel .carousel-item .mask img {
+		max-width: 70%;
+	}
+	/* banner next icon  */
+	.carousel-control-next{
+		top:50%;
+		right: 5px;
+	}
+
+	.carousel-control-prev{
+		top:50%;
+		left: 5px;
+		
+	}
+		/* About us start  */
+		.about {
+		padding: 70px 0;
+		}	
+		.c_witdh{
+			width: 70%;
+		}	  
+		.c_h2 p {
+			padding: 0 100px;
+		}
+				
+		.a_text h2 {
+			font-size: 30px;
+		}
+		.a_img{
+			margin: 0 auto;
+		}
+		.a_text {
+			margin-top: 30px;
+			text-align: center;
+		}
+		/* services start  */
+
+		.services {
+			padding-bottom: 70px;
+		}
+		.medium_p {
+			margin-bottom: 0px !important;
+		}
+		.card{
+			margin-top: 40px;
+		}
+		.card1{
+			margin-top: 40px;
+		}
+		.card-title {
+			font-size: 24px;
+			font-weight: 600;
+		}
+		.card-title {
+			padding: 0px;
+		}
+		.card-body {
+			padding-left: 0px !important;
+			padding-right: 0px !important;
+		}
+		/* book a taxi  */
+		.f_img{
+			text-align: center;
+		}
+		.medium_f{
+			margin-top: 14px;
+		}
+		/* map start  */
+		.map {
+			margin: 40px  40px 0;
+			text-align: center;
+			border: 5px double #ffc61a;
+			border-radius: 5px;
+		}
+		.mapss{
+			width: 100%;
+			height: 400px;
+		}
+		/* footer start  */
+		.f_1{
+			padding: 0 95px 25px;
+		}
+		#footer {
+			padding-top: 70px;
+		}
+				
+}
+
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/* banner start  */
+	#myCarousel .carousel-item h1 {
+		font-size: 40px;
+		
+	}
+		/* banner next icon  */
+		.carousel-control-next{
+			 height: 35px;
+			width: 35px;
+			padding: 5px;
+			top: 50%;
+			right: -2.5%;
+		}
+ 
+		.carousel-control-prev{
+			height: 35px;
+			width: 35px;
+			padding: 5px;
+			top: 50%;
+		    left: -2.5%;
+			   
+		}
+		/* About us start  */
+		.c_h2 p {
+			padding: 0 203px;
+		}
+		
+		/* services start  */
+		.card-title {
+			padding: 0 20px;
+		}
+ }
+
+/*extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	/* banner next icon  */
+	.carousel-control-next{		  
+		height: 35px;
+        width: 35px;
+		padding: 5px;
+		top: 50%;
+       right: -2%;
+	   
+	}
+
+	.carousel-control-prev{
+		height: 35px;
+        width: 35px;
+		padding: 5px;
+		top: 50%;
+		left: -2%;
+	
+			  
+	}
+
+	/* About us start  */
+	.c_h2 p {
+		padding: 0 291px;
+	}
+	/* services  */
+	.card-title {
+		font-size: x-large;
+	}
+ }
+
+/* Extra extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+	
+ }
